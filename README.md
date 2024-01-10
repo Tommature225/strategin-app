@@ -1,5 +1,5 @@
 API sécurisée par Register/Login
-Nous vous demandons de développer une application permettant de s’inscrire via
+Il s'agit de développer une application permettant de s’inscrire via
 des informations basiques.
 • Au premier accès, l’utilisateur doit se créer un compte (email, mdp) sur la route
 /register
